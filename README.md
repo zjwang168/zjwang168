@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I’m a software engineer with a passion for building efficient, user-focused solutions and a strong drive for continuous learning. With hands-on experience in full-stack development, I thrive on turning complex problems into clean, scalable code. I enjoy collaborating across teams, embracing feedback, and continuously expanding my technical and problem-solving skills to stay ahead in a fast-changing tech landscape.
+I’m a software engineer with a passion for building efficient, user-focused solutions and a strong drive for continuous learning. With hands-on experience in full-stack development, I enjoy turning complex problems into clean, scalable code. I enjoy collaborating across teams, embracing feedback, and continuously expanding my technical and problem-solving skills to stay ahead in a fast-changing tech landscape.
 
 * 🌍  I'm based in Washington, DC
 * ✉️  You can contact me at [zijinwang168@gmail.com](mailto:zijinwang168@gmail.com)
@@ -29,5 +29,3 @@ I’m a software engineer with a passion for building efficient, user-focused so
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/zjwang168"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zjwang168&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/zjwang168"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=zjwang168&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
