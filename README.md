@@ -10,9 +10,8 @@ Currently pursuing my Master’s at the University of Pennsylvania after graduat
 
 * 🌍  I'm based in Washington, DC
 * ✉️  You can contact me at [zijinwang168@gmail.com](mailto:zijinwang168@gmail.com)
-* 🧠  I'm learning a new framework
-* 🤝  I'm open to collaborating on interesting project
-* ⚡  Currently debugging life… one line of code at a time
+* 🤝  Open to building and collaborating on interesting products and ideas
+* ⚡  Currently turning ideas into systems
 
 ### Skills
 
