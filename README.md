@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Software engineer and product builder focused on AI-native systems, full-stack applications, and real-world workflows. 
+Software engineer and product builder focused on AI native systems, full stack applications, and real world workflows. 
 
 Currently pursuing my Master’s at the University of Pennsylvania after graduating from the University of Maryland. 
 
