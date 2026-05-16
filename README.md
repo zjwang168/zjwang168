@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I’m a software engineer passionate about building efficient, user-focused solutions and constantly learning. I earned my Bachelor’s degree in Information Science from the University of Maryland and will be starting my Master’s in Computer and Information Technology at the University of Pennsylvania this fall. With hands-on experience in full-stack development, I enjoy turning complex problems into clean, scalable code. I thrive in collaborative environments, value feedback, and continuously sharpen my technical and problem-solving skills to stay ahead in a fast-paced tech landscape.
+Software engineer and product builder focused on AI-native systems, full-stack applications, and real-world workflows. 
+
+Currently pursuing my Master’s at the University of Pennsylvania after graduating from the University of Maryland. 
 
 * 🌍  I'm based in Washington, DC
 * ✉️  You can contact me at [zijinwang168@gmail.com](mailto:zijinwang168@gmail.com)
